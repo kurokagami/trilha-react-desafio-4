@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<details>
+Implementações by KuroKagami
+<br />
+Propriedade disabled para o botão no caso de formulário inválido.
+<br />
+Interface de styled para ativar o hover enquanto disabled !== false, visando uma melhor vizualização da lógica.
+<br />
+</details>
